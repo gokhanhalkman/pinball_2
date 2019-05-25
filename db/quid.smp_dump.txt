@@ -1,0 +1,10 @@
+
+State Machine - |quid|ball:main_ball|y_dir
+Name y_dir.10 
+y_dir.IY_DIR 0 
+y_dir.10 1 
+
+State Machine - |quid|ball:main_ball|x_dir
+Name x_dir.10 
+x_dir.IX_DIR 0 
+x_dir.10 1 
